@@ -23,7 +23,7 @@ public class AdvancedScannerMethod {
 			}
 			else
 			{
-				String stringvalue =scan.next();
+				String stringvalue = scan.next();
 				System.out.println("Unkown input");
 			}
 		}
