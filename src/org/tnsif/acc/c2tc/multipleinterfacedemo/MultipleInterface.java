@@ -22,5 +22,4 @@ public class MultipleInterface {
 		smartphone.playMusic();
 		smartphone.takephoto();
 	}
-
 }
